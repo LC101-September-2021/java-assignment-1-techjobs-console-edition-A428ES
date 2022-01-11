@@ -125,7 +125,7 @@ public class TechJobs {
                 System.out.println("\n*****");
 
                 for (Map.Entry<String, String> item : entry.entrySet()) {
-                    System.out.println(item.getKey() + " : " + item.getValue());
+                    System.out.println(item.getKey() + ": " + item.getValue());
                 }
 
                 System.out.println("*****");
